@@ -1,0 +1,14 @@
+C:\Solutions C#\TravelAgencySolution\TravelAgency.Data\bin\Debug\net9.0\TravelAgency.Data.deps.json
+C:\Solutions C#\TravelAgencySolution\TravelAgency.Data\bin\Debug\net9.0\TravelAgency.Data.runtimeconfig.json
+C:\Solutions C#\TravelAgencySolution\TravelAgency.Data\bin\Debug\net9.0\TravelAgency.Data.dll
+C:\Solutions C#\TravelAgencySolution\TravelAgency.Data\bin\Debug\net9.0\TravelAgency.Data.pdb
+C:\Solutions C#\TravelAgencySolution\TravelAgency.Data\obj\Debug\net9.0\TravelAgency.Data.csproj.AssemblyReference.cache
+C:\Solutions C#\TravelAgencySolution\TravelAgency.Data\obj\Debug\net9.0\TravelAgency.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Solutions C#\TravelAgencySolution\TravelAgency.Data\obj\Debug\net9.0\TravelAgency.Data.AssemblyInfoInputs.cache
+C:\Solutions C#\TravelAgencySolution\TravelAgency.Data\obj\Debug\net9.0\TravelAgency.Data.AssemblyInfo.cs
+C:\Solutions C#\TravelAgencySolution\TravelAgency.Data\obj\Debug\net9.0\TravelAgency.Data.csproj.CoreCompileInputs.cache
+C:\Solutions C#\TravelAgencySolution\TravelAgency.Data\obj\Debug\net9.0\TravelAgency.Data.dll
+C:\Solutions C#\TravelAgencySolution\TravelAgency.Data\obj\Debug\net9.0\refint\TravelAgency.Data.dll
+C:\Solutions C#\TravelAgencySolution\TravelAgency.Data\obj\Debug\net9.0\TravelAgency.Data.pdb
+C:\Solutions C#\TravelAgencySolution\TravelAgency.Data\obj\Debug\net9.0\TravelAgency.Data.genruntimeconfig.cache
+C:\Solutions C#\TravelAgencySolution\TravelAgency.Data\obj\Debug\net9.0\ref\TravelAgency.Data.dll

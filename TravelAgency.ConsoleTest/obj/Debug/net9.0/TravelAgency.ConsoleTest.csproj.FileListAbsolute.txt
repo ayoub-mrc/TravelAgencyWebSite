@@ -1,0 +1,5 @@
+C:\Solutions C#\TravelAgencySolution\TravelAgency.ConsoleTest\obj\Debug\net9.0\TravelAgency.ConsoleTest.csproj.AssemblyReference.cache
+C:\Solutions C#\TravelAgencySolution\TravelAgency.ConsoleTest\obj\Debug\net9.0\TravelAgency.ConsoleTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Solutions C#\TravelAgencySolution\TravelAgency.ConsoleTest\obj\Debug\net9.0\TravelAgency.ConsoleTest.AssemblyInfoInputs.cache
+C:\Solutions C#\TravelAgencySolution\TravelAgency.ConsoleTest\obj\Debug\net9.0\TravelAgency.ConsoleTest.AssemblyInfo.cs
+C:\Solutions C#\TravelAgencySolution\TravelAgency.ConsoleTest\obj\Debug\net9.0\TravelAgency.ConsoleTest.csproj.CoreCompileInputs.cache
