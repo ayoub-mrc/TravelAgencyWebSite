@@ -1,0 +1,15 @@
+C:\Solutions C#\TravelAgencySolution\TravelAgency.Business\bin\Debug\net9.0\TravelAgency.Business.deps.json
+C:\Solutions C#\TravelAgencySolution\TravelAgency.Business\bin\Debug\net9.0\TravelAgency.Business.dll
+C:\Solutions C#\TravelAgencySolution\TravelAgency.Business\bin\Debug\net9.0\TravelAgency.Business.pdb
+C:\Solutions C#\TravelAgencySolution\TravelAgency.Business\bin\Debug\net9.0\TravelAgency.Data.dll
+C:\Solutions C#\TravelAgencySolution\TravelAgency.Business\bin\Debug\net9.0\TravelAgency.Data.pdb
+C:\Solutions C#\TravelAgencySolution\TravelAgency.Business\obj\Debug\net9.0\TravelAgency.Business.csproj.AssemblyReference.cache
+C:\Solutions C#\TravelAgencySolution\TravelAgency.Business\obj\Debug\net9.0\TravelAgency.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Solutions C#\TravelAgencySolution\TravelAgency.Business\obj\Debug\net9.0\TravelAgency.Business.AssemblyInfoInputs.cache
+C:\Solutions C#\TravelAgencySolution\TravelAgency.Business\obj\Debug\net9.0\TravelAgency.Business.AssemblyInfo.cs
+C:\Solutions C#\TravelAgencySolution\TravelAgency.Business\obj\Debug\net9.0\TravelAgency.Business.csproj.CoreCompileInputs.cache
+C:\Solutions C#\TravelAgencySolution\TravelAgency.Business\obj\Debug\net9.0\TravelAg.20E4CFDD.Up2Date
+C:\Solutions C#\TravelAgencySolution\TravelAgency.Business\obj\Debug\net9.0\TravelAgency.Business.dll
+C:\Solutions C#\TravelAgencySolution\TravelAgency.Business\obj\Debug\net9.0\refint\TravelAgency.Business.dll
+C:\Solutions C#\TravelAgencySolution\TravelAgency.Business\obj\Debug\net9.0\TravelAgency.Business.pdb
+C:\Solutions C#\TravelAgencySolution\TravelAgency.Business\obj\Debug\net9.0\ref\TravelAgency.Business.dll

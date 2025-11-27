@@ -1,0 +1,7 @@
+C:\Solutions C#\TravelAgencySolution\TravelAgency.API\obj\Debug\net9.0\staticwebassets.build.json
+C:\Solutions C#\TravelAgencySolution\TravelAgency.API\obj\Debug\net9.0\staticwebassets.build.json
+C:\Solutions C#\TravelAgencySolution\TravelAgency.API\obj\Debug\net9.0\staticwebassets.build.json
+C:\Solutions C#\TravelAgencySolution\TravelAgency.API\obj\Debug\net9.0\staticwebassets.build.json
+C:\Solutions C#\TravelAgencySolution\TravelAgency.API\obj\Debug\net9.0\staticwebassets.build.json
+C:\Solutions C#\TravelAgencySolution\TravelAgency.API\obj\Debug\net9.0\staticwebassets.build.json
+C:\Solutions C#\TravelAgencySolution\TravelAgency.API\obj\Debug\net9.0\staticwebassets.build.json
